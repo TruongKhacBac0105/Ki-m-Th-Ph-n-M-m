@@ -3,7 +3,7 @@ Bắc: Test đăng nhập, đăng kí tín chỉ trang quản lý học tập
 Thiện: Test thêm, xóa giỏ hàng shoppee
 Sơn: Test đăng nhập, xem thời khóa biểu trang quản lý học tập
 Vinh: Test kết quả tìm kiếm google
-Cường
+Cường: Test tìm kiếm theo giá cao
 
 
 # chạy python
