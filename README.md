@@ -1,5 +1,7 @@
 # Ki-m-Th-Ph-n-M-m
 
+
+
 # chạy python
 
 b1: tạo file .env
