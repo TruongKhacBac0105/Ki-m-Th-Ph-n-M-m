@@ -1,5 +1,9 @@
 # Ki-m-Th-Ph-n-M-m
-
+Bắc: Test đăng nhập, đăng kí tín chỉ trang quản lý học tập
+Thiện: Test thêm, xóa giỏ hàng shoppee
+Sơn: Test đăng nhập, xem thời khóa biểu trang quản lý học tập
+Vinh: Test kết quả tìm kiếm google
+Cường
 
 
 # chạy python
