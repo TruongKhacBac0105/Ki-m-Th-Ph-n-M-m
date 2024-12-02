@@ -1,6 +1,6 @@
 # Ki-m-Th-Ph-n-M-m
 Bắc: Test đăng nhập, đăng kí tín chỉ trang quản lý học tập
-Thiện: Test thêm, xóa giỏ hàng shoppee
+Thiện: Test tìm sản phẩm
 Sơn: Test đăng nhập, xem thời khóa biểu trang quản lý học tập
 Vinh: Test kết quả tìm kiếm google
 Cường: Test tìm kiếm theo giá cao
