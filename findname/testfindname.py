@@ -22,9 +22,8 @@ class TestTestfindname():
     self.driver.get("https://www.lazada.vn/#?")
     self.driver.set_window_size(1552, 832)
     self.driver.find_element(By.ID, "q").click()
-    self.driver.find_element(By.ID, "q").send_keys("ihpone 15 pro")
-    self.driver.find_element(By.ID, "q").send_keys(Keys.DOWN)
+    self.driver.find_element(By.ID, "q").send_keys("iphone 15 promax")
     self.driver.find_element(By.ID, "q").send_keys(Keys.ENTER)
     self.driver.find_element(By.CSS_SELECTOR, ".Bm3ON:nth-child(1) .buTCk").click()
-    assert self.driver.find_element(By.LINK_TEXT, "Apple iPhone 15 Pro Max 256GB Chính hãng (VN/A)").text == "Apple iPhone 15 Pro Max 256GB Chính hãng (VN/A)"
+    assert self.driver.find_element(By.LINK_TEXT, "iPhone 15 Pro Max - Hàng Chính Hãng VN/A").text == "iPhone 15 Pro Max - Hàng Chính Hãng VN/A"
   
