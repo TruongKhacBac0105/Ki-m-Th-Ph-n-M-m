@@ -4,6 +4,7 @@ Thiện: Test tìm sản phẩm
 Sơn: Test đăng nhập, xem thời khóa biểu trang quản lý học tập
 Vinh: Test kết quả tìm kiếm google
 Cường: Test tìm kiếm theo giá cao
+Hiếu : tìm kiếm theo tên sản phẩm
 
 
 # chạy python
