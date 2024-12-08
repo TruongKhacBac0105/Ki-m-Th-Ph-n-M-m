@@ -1,0 +1,29 @@
+Số kết quả tìm kiếm: 9
+
+Kết quả 1: 2. Getting Started — Selenium Python Bindings 2 documentation
+Liên kết: https://selenium-python.readthedocs.io/getting-started.html
+----
+Kết quả 2: Các lệnh truy vấn trong Selenium WebDriver Python
+Liên kết: https://anhtester.com/blog/cac-lenh-truy-van-trong-selenium-webdriver-python-b330.html
+----
+Kết quả 3: Selenium Python Tutorial (with Example)
+Liên kết: https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+----
+Kết quả 4: Tìm hiểu testing Web Automation với Selenium Webdriver ...
+Liên kết: https://viblo.asia/p/tim-hieu-testing-web-automation-voi-selenium-webdriver-va-python-Qbq5Q46RlD8
+----
+Kết quả 5: selenium · PyPI
+Liên kết: https://pypi.org/project/selenium/
+----
+Kết quả 6: Selenium with Python — Selenium Python Bindings 2 ...
+Liên kết: https://selenium-python.readthedocs.io/
+----
+Kết quả 7: Viết 1 Test Case Đơn Giản Với Python Selenium WebDriver
+Liên kết: https://topdev.vn/blog/viet-1-test-case-don-gian-voi-python-selenium-webdriver/
+----
+Kết quả 8: Guide to Using Python Selenium
+Liên kết: https://medium.com/@moraneus/guide-to-using-python-selenium-873342d5fdad
+----
+Kết quả 9: Selenium Python Tutorial
+Liên kết: https://www.javatpoint.com/selenium-python
+----

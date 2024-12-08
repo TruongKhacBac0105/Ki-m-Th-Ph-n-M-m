@@ -1,0 +1,2 @@
+cd D:\KTPM_CUOIKI\KTPM_VINH\tests
+pytest google_search_test.py  
